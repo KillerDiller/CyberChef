@@ -7,3 +7,4 @@ docs/*
 !docs/*.ico
 .vscode
 src/core/config/MetaConfig.js
+.firebaserc
